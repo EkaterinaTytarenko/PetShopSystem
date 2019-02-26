@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShopsSystem", "PetShopsSystem\PetShopsSystem.csproj", "{F2A4931D-EA32-4C02-A50F-51A38B89E827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsClassLibrary", "AnimalsClassLibrary\AnimalsClassLibrary.csproj", "{232CCF9C-3E24-4822-AC47-E5D2547EF7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A4931D-EA32-4C02-A50F-51A38B89E827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A4931D-EA32-4C02-A50F-51A38B89E827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A4931D-EA32-4C02-A50F-51A38B89E827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A4931D-EA32-4C02-A50F-51A38B89E827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232CCF9C-3E24-4822-AC47-E5D2547EF7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232CCF9C-3E24-4822-AC47-E5D2547EF7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232CCF9C-3E24-4822-AC47-E5D2547EF7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232CCF9C-3E24-4822-AC47-E5D2547EF7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A332CBF-05A2-4D9E-A052-BFD4B96FE619}
+	EndGlobalSection
+EndGlobal
